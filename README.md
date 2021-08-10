@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MwViljoen
-- 👀 I’m interested in Coding
-- 🌱 I’m currently studying Full Stack Development and Software Engineering
+- 👋 Hi, I’m @MwViljoen.
+- 👀 I’m interested in Coding.
+- 🌱 I’m a Full Stack Developer and Software Engineer.
 <!---
 
 - 💞️ I’m looking to collaborate on ...
