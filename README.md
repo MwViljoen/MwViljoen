@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MwViljoen.
+- 👋 Hi, I’m Willem Viljoen.
 - 👀 I’m interested in Coding.
 - 🌱 I’m a Full Stack Developer and Software Engineer.
 <!---
