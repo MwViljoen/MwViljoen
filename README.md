@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Willem Viljoen.
-- 👀 I’m interested in Coding.
+- 👀 I’m interested in Full Stack Software Development.
 - 🌱 I’m a Full Stack Developer and Software Engineer.
 <!---
 
